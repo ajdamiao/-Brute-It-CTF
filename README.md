@@ -2,7 +2,7 @@
 walkthrough Brute It CTF
 
 1- Primeiramente vou enumerar utilizando o nmap e gobuster
-![enumeração](C:\Users\sadiq\Desktop)
+![enumeração](https://imghub.io/i/xonmJ)
 
 2- Com o nmap achei as portas 80(Apache) e 22(OpenSSH) abertas e com o gobuster acheio o diretorio /admin/
 
